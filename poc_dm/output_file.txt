@@ -1,0 +1,2 @@
+Sensor Hub Id --> 1 
+Proximity =4.885000

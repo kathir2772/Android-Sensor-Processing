@@ -1,0 +1,2 @@
+Library('json',['test_main.c','parse_json_fn.c'])
+Program('sensor',['test_main.c','parse_json_fn.c','seperate_fn.c','display_function.c'],LIBS = 'json',LIBPATH = '/usr/include/json.h')
